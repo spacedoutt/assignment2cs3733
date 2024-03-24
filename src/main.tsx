@@ -13,7 +13,7 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
     <React.StrictMode>
         <App/>
         <Title/>
-        <Intro/>
+            <Intro firstName="Matthew Crane" secondName="Christopher Hunt" />
         <List/>
         <Table/>
         <Form/>

@@ -1,7 +1,7 @@
 function Title() {
     return(
         <>
-            <h1>I am Matthew Crane and I like to play video games.</h1>
+            <h1>We are Matthew Crane and Christopher Hunt and we like to play video games.</h1>
         </>
     )
 }
